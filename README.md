@@ -1,8 +1,8 @@
 # Stackoverflow-Tag-Predictor
 <img src='images/pic1.jpg'/>
 
-<h1>1. Business Problem </h1>
-<h2> 1.1 Description </h2>
+<h1> Business Problem </h1>
+<h2> Description </h2>
 <p style='font-size:18px'><b> Description </b></p>
 <p>
 Stack Overflow is the largest, most trusted online community for developers to learn, share their programming knowledge, and build their careers.<br />
